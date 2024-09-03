@@ -1,0 +1,48 @@
+h2{
+    text-align: center;
+    color: blue;
+}
+
+p{
+    background-color: aqua;
+    text-align: center;
+    color: red;
+    border-radius: 20px;
+}
+
+a{
+    background-color: black;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+h1{
+    background-color: red;
+    text-align: center;
+    color: azure;
+    border-radius: 20px;
+}
+
+.yun{
+    color: aliceblue;
+    background-color: black;
+    border-radius: 5px;
+}
+
+.tin{
+    background-color: red;
+    color: aliceblue;
+    border-radius: 5px;
+}
+
+.qut{
+background-color: green;
+color: aliceblue;
+border-radius: 5px;
+}
+
+.ser{
+background-color: aliceblue;
+
+
+}
